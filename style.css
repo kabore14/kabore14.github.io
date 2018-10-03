@@ -1,0 +1,50 @@
+header{ 
+	background-image: url(images/pizza.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 350px; 
+}
+
+nav{
+	background-color: #9eb8e2;
+}
+
+nav .row .col:hover{
+	background-color: #dfceef;
+}
+
+img{width: 100%}
+
+a:link{
+	color: black;
+}
+
+.web{
+	padding-top: 100px;
+	padding-left: 120px;
+}
+
+.img{padding-top: 50px;
+	padding-right: 120px;
+	height: 50px}
+
+.projects{
+	padding-left: 500px;
+text-decoration: underline;}
+.projectext{
+	padding-left: 500px;
+	}
+
+.name{
+	color: white;
+}
+.aboutme{
+	text-decoration: underline;
+}
+.contacts{
+	text-decoration: underline;
+}
+
+.projectstext{
+	background-color: #9eb8e2;
+}
