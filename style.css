@@ -24,9 +24,11 @@ a:link{
 	padding-left: 120px;
 }
 
-.img{padding-top: 50px;
+.img{padding-top: 40px;
 	padding-right: 120px;
-	height: 50px}
+	height: 50px;
+	border-radius: 20px;
+	}
 
 .projects{
 	padding-left: 500px;
@@ -47,4 +49,10 @@ text-decoration: underline;}
 
 .projectstext{
 	background-color: #9eb8e2;
+}
+.contacts{
+	padding-left: 1000px;
+}
+.contactstext{
+	padding-left: 1000px;
 }
